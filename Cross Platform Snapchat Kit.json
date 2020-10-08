@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Cross Platform Snapchat Kit",
+      "message": {
+        "embeds": [
+          {
+            "title": "Cross Platform Snapchat Kit | Integration | Unity Asset Store",
+            "description": "__Feature set:__\n• Snapchat Login\n• Get Display Name, Bitmoji Avatar, External unique ID specific to application\n• Share Picture on Snapchat\n• Share Video on Snapchat\n• Share Live Camera on Snapchat\n• Add your own customised stickers on sharing content",
+            "color": 65307,
+            "fields": [
+              {
+                "name": "Check out the link below to find more information:",
+                "value": "https://assetstore.unity.com/packages/tools/integration/cross-platform-snapchat-kit-125586"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-08T01:52:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/8fae7b29-9933-4b4e-a8db-4866d7846f1d.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
